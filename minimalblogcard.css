@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+
+}
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 16px;
+    width: 400px;
+    height: 430px;
+    margin-top: 164px;
+    font-family: "Sora", sans-serif;
+}
+
+.design {
+    display: flex;
+    border-radius: 20px;
+    height: 25px;
+    width: 70px;
+    margin-top: 16px;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Sora", sans-serif;
+    color: blueviolet;
+    background-color: rgb(250, 208, 250);
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+}
+.horizontal-line {
+    border: none;
+    height: 2px;
+    background-color: #ccc;
+    margin: 20px -17px;
+}
+.owner {
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Sora", sans-serif;
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+.explanation {
+    margin-bottom: 20px;
+}
+
+
